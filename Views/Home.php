@@ -1,0 +1,1 @@
+<h1 class="text-center">Bienvenido señor/a <?php echo $_SESSION['user']->nombre_empleado?></h1>
